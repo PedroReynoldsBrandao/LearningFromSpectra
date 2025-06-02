@@ -27,4 +27,4 @@ Vx (ppm) for NO)
 absdata contains 500 wavelengths of absorbance
 fluorodata contains 6103 excitation-emission wavelength pairs of fluorescence
 
-This repository is a global update of PTFucoFromSpec (https://github.com/ibetbio/PT-FucoFromSpec)
+[Open the notebook](__.ipynb) for a step-by-step guide.
