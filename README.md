@@ -28,3 +28,5 @@ absdata contains 500 wavelengths of absorbance
 fluorodata contains 6103 excitation-emission wavelength pairs of fluorescence
 
 [Open the notebook](learnfromspec_unsupervised.ipynb) for a step-by-step guide.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ibetbio/LearningFromSpectra/main?filepath=tutorial/intro.ipynb)
+
