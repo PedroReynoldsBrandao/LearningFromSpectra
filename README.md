@@ -2,7 +2,7 @@
 
 Learning from spectroscopy: monitoring of microalgae cultures
 
-![Animation](https://github.com/ibetbio/LearningFromSpectra/blob/main/images/title.gif)
+![Animation](https://github.com/PedroReynoldsBrandao/LearningFromSpectra/images/title.gif)
 
 Here we use datasets from microalgae cultivation to learn how costly standard analytical data can be predict by inexpensive spectroscopy data.
 
@@ -27,7 +27,7 @@ Vx (ppm) for NO)
 absdata contains 500 wavelengths of absorbance
 fluorodata contains 6103 excitation-emission wavelength pairs of fluorescence
 
-[Open the notebook](learnfromspec_unsupervised.ipynb) for a step-by-step guide.
+[Open the notebook](learnfromspec_unsupervised.ipynb) for a step-by-step guide!
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ibetbio/PedroReynoldsBrandao/LearningFromSpectra/main?filepath=learnfromspec_unsupervised.ipynb)
 
