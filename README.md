@@ -30,7 +30,7 @@ fluorodata contains 6103 excitation-emission wavelength pairs of fluorescence
 [Open the notebook](learnfromspec_unsupervised.ipynb) for a step-by-step guide!
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PedroReynoldsBrandao/LearningFromSpectra/main?filepath=learnfromspec_unsupervised.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PedroReynoldsBrandao/LearningFromSpectra/main?filepath=LearningFromSpec_part1.ipynb)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PedroReynoldsBrandao/LearningFromSpectra/blob/main/learnfromspec_unsupervised.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PedroReynoldsBrandao/LearningFromSpectra/blob/main/LearningFromSpec_part1.ipynb)
 
