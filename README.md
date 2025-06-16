@@ -2,7 +2,7 @@
 
 Learning from spectroscopy: monitoring of microalgae cultures
 
-![Animation](https://github.com/PedroReynoldsBrandao/LearningFromSpectra/images/title.gif)
+![Animation](https://raw.githubusercontent.com/PedroReynoldsBrandao/LearningFromSpectra/main/images/title.gif)
 
 Here we use datasets from microalgae cultivation to learn how costly standard analytical data can be predict by inexpensive spectroscopy data.
 
