@@ -2,7 +2,7 @@
 
 Learning from spectroscopy: monitoring of microalgae cultures
 
-![Animation](https://raw.githubusercontent.com/PedroReynoldsBrandao/LearningFromSpectra/main/images/title.gif)
+![Animation](https://raw.githubusercontent.com/ibetbio/LearningFromSpectra/main/images/title.gif)
 
 Here we use datasets from microalgae cultivation to learn how costly standard analytical data can be predict by inexpensive spectroscopy data.
 
@@ -30,7 +30,7 @@ fluorodata contains 6103 excitation-emission wavelength pairs of fluorescence
 [Open the notebook](LearningFromSpec_part1.ipynb) for a step-by-step guide!
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PedroReynoldsBrandao/LearningFromSpectra/main?filepath=LearningFromSpec_part1.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ibetbio/LearningFromSpectra/main?filepath=LearningFromSpec_part1.ipynb)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PedroReynoldsBrandao/LearningFromSpectra/blob/main/LearningFromSpec_part1.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ibetbio/LearningFromSpectra/blob/main/LearningFromSpec_part1.ipynb)
 
